@@ -19,7 +19,7 @@ Repo 126 Yıldıza ulaştığında Rozet kazanıcam destek olursanız sevinirim 
 
 <br>
 
-# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
+# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın.. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
